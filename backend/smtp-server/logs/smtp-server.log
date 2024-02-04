@@ -1,0 +1,7 @@
+2024-01-17 18:53:02.905  INFO 16032 --- [main] c.e.smtpserver.SmtpServerApplication     : Starting SmtpServerApplication using Java 1.8.0_382 on Leo with PID 16032 (D:\Learn\M\mail\mail\后端\smtp-server\target\classes started by leo92 in D:\Learn\M\mail\mail\后端\smtp-server)
+2024-01-17 18:53:02.913  INFO 16032 --- [main] c.e.smtpserver.SmtpServerApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-01-17 18:53:03.574  INFO 16032 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2024-01-17 18:53:03.748  INFO 16032 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-01-17 18:53:04.921  INFO 16032 --- [main] c.e.smtpserver.SmtpServerApplication     : Started SmtpServerApplication in 2.333 seconds (JVM running for 3.714)
+2024-01-17 19:05:47.396  INFO 16032 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2024-01-17 19:05:47.402  INFO 16032 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
